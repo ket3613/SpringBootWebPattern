@@ -6,7 +6,7 @@ plugins {
     id 'com.google.cloud.tools.jib' version '2.8.0'
 }
 
-jib.to.image = 'gcr.io/my-project/image-built-with-jib'
+jib.to.image = 'etKang_SpringBootWebPattern'
 
 
 group = 'com.example'
